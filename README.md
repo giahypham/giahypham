@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Gia Hy or you can call me Andy</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
+Hello 🤲 I am a Full-Stack Software Developer passionate about building web applications.
+
+🙋‍♂️ ABOUT ME
+I am experienced in customer service management, business development, and teaching. Analytics, optimization, and efficiency, with an emphasis on empathy, are what I have to offer to my colleagues and clients. 
+
+Feel free to check out my GitHub and other pages for my projects varying from data analytics to full-stack web applications.
+
+Looking forward to growing my network and collaborating on the next software development projects. Let's create remarkable applications!
+
+In my free time, I manage a competitive FIFA ProClub, play tennis, and I am a regular concert goer. Let's bond over music, tennis, and books!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

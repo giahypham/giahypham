@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**giahypham/giahypham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Gia Hy or you can call me Andy</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
 

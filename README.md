@@ -9,7 +9,12 @@ Feel free to check out my GitHub and other pages for my projects varying from da
 
 Looking forward to growing my network and collaborating on the next software development projects. Let's create remarkable applications!
 
-In my free time, I manage a competitive FIFA ProClub, play tennis, and I am a regular concert goer. Let's bond over music, tennis, and books!
+In my free time, I manage a competitive FIFA ProClub, play tennis, and I am a regular concertgoer. Let's bond over music, tennis, and books!
+
+💻 My current tech stack:
+-Full-stack development using HTML, Javascript, React, Redux Node, and CSS
+-Quality assurance using unit testing and integration testing
+-Data analysis using R and visualization with Tableau
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

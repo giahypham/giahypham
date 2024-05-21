@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gia Hy or you can call me Andy</h1>
+<h1 align="center">Hi 👋, I'm Gia Hy. You can call me Hy "he" or Andy</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
 Hello 🤲 I am a Full-Stack Software Developer passionate about building web applications.
 

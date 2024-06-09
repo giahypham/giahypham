@@ -7,7 +7,7 @@ I am experienced in customer service management, business development, and teach
 
 Feel free to check out my GitHub and other pages for my projects varying from data analytics to full-stack web applications.
 
-Looking forward to growing my network and collaborating on the next software development projects. Let's create remarkable applications!
+I look forward to growing my network and collaborating on the next software development projects. Let's create remarkable applications!
 
 In my free time, I manage a competitive FIFA ProClub, play tennis, and I am a regular concertgoer. Let's bond over music, tennis, and books!
 

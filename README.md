@@ -3,7 +3,7 @@
 Hello 🤲 I am a Full-Stack Software Developer passionate about building web applications.
 
 🙋‍♂️ ABOUT ME
-I am experienced in customer service management, business development, and teaching. Analytics, optimization, and efficiency, with an emphasis on empathy, are what I have to offer to my colleagues and clients. 
+My background is in customer service management, business development, and teaching. Analytics, optimization, and efficiency, with an emphasis on empathy, are what I have to offer to my colleagues and clients. I studied Mathematics in college and Economics in graduate school. My interest in graduate school was to analyze healthcare data using econometrics techniques. 
 
 Feel free to check out my GitHub and other pages for my projects varying from data analytics to full-stack web applications.
 
